@@ -14,6 +14,11 @@ GITHUBTARBALL
     dnsmasq (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-emacs
+  specs:
+    emacs (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-gcc
   specs:
     gcc (2.0.1)
@@ -69,6 +74,11 @@ GITHUBTARBALL
     xquartz (1.1.0)
 
 GITHUBTARBALL
+  remote: lumannnn/puppet-elasticsearch
+  specs:
+    elasticsearch (1.0.2)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
     inifile (1.0.0)
@@ -82,6 +92,8 @@ DEPENDENCIES
   autoconf (= 1.0.0)
   boxen (= 3.0.1)
   dnsmasq (= 1.0.0)
+  elasticsearch (= 1.0.2)
+  emacs (= 1.1.0)
   gcc (= 2.0.1)
   git (= 1.2.5)
   homebrew (= 1.4.1)

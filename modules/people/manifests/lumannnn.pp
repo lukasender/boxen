@@ -1,6 +1,6 @@
 class people::lumannnn {
-  include elasticsearch
-  include emacs
+  # include elasticsearch
+  # include emacs
   # include java
   # include keepassx
   # include wget

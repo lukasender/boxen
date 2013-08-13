@@ -13,7 +13,7 @@ end
 # Includes many of our custom types and providers, as well as global
 # config. Required.
 
-github "boxen",      "3.0.1"
+github "boxen",      "3.0.2"
 
 # Core modules for a basic development environment. You can replace
 # some/most of these if you want, but it's not recommended.
@@ -41,7 +41,7 @@ github "xquartz",       "1.1.0"
 # github "chrome",        "1.0.0"
 # github "dropbox",       "1.0.0"
 # github "elasticsearch", "1.0.2", :repo => "lumannnn/puppet-elasticsearch"
-github "emacs",         "1.1.0"
+# github "emacs",         "1.1.0"
 # github "java",          "1.1.0"
 # github "firefox",       "1.0.0"
 # github "googledrive",   "1.0.0"
